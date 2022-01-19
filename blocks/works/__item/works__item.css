@@ -1,0 +1,7 @@
+.works__item {
+    display: flex;
+    gap: 18px;
+    padding-bottom: 12px;
+    padding-top: 31px;
+    border-bottom: 1px solid #E0E0E0;
+}

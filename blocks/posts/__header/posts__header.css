@@ -1,0 +1,6 @@
+.posts__header {
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+    align-items: center;
+}

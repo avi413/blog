@@ -1,0 +1,7 @@
+.nav__menu {
+    list-style: none;
+    display: flex;
+    justify-content: flex-end;
+    margin: 27px 60px 26px 0;
+    gap: 33px;
+}
